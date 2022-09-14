@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Diana Olick",
+      "title": "Homebuilder sentiment plunges in July as buyers pull back - CNBC",
+      "description": "Homebuilder sentiment fell dramatically in July, as both builders and buyers contend with sky-high inflation.",
+      "url": "https://www.cnbc.com/2022/07/18/homebuilder-sentiment-takes-historic-plunge-in-july.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107078772-1655849925477-gettyimages-1238730000-NEW_HOME_SALES.jpeg?v=1655849962&w=1920&h=1080",
+      "publishedAt": "2022-07-18T14:00:01Z",
+      "content": "Confidence among builders in the nation's single-family housing market fell in July to the lowest level since the start of the pandemic.\r\nThe National Association of Home Builders/Wells Fargo Housing… [+2371 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Hugh Son, Jack Stebbins",
+      "title": "Goldman CEO David Solomon says inflation is 'deeply entrenched' in the global economy - CNBC",
+      "description": "Uncertainty has Goldman CEO David Solomon operating cautiously as central banks around the world tighten financial conditions to combat inflation, he said.",
+      "url": "https://www.cnbc.com/2022/07/18/goldman-ceo-david-solomon-says-inflation-is-deeply-entrenched-in-the-global-economy-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106756942-1603383486577-abc.jpg?v=1611059759&w=1920&h=1080",
+      "publishedAt": "2022-07-18T13:45:22Z",
+      "content": "Goldman Sachs CEO David Solomon said Monday that inflation is deeply entrenched in the economy and it's unclear whether the situation will improve later this year.\r\n\"We see inflation deeply entrenche… [+1556 chars]"
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Exclusive: Russia's Gazprom declares force majeure on some gas supplies to Europe - Reuters.com",
+      "description": "Russia's Gazprom <a href=\"https://www.reuters.com/companies/GAZP.MM\" target=\"_blank\">(GAZP.MM)</a> has declared force majeure on gas supplies to Europe to at least one major customer, according to a letter from Gazprom that will add to European fears of fuel …",
+      "url": "https://www.reuters.com/business/energy/russias-gazprom-declares-force-majeure-gas-supplies-europe-2022-07-18/",
+      "urlToImage": "https://www.reuters.com/resizer/M00EHzYg1JAKC-dgYKO27XuLyac=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/44OD2KTYCBMXXCW3H5JEZNIBJ4.jpg",
+      "publishedAt": "2022-07-18T13:36:00Z",
+      "content": "LONDON, July 18 (Reuters) - Russia's Gazprom (GAZP.MM) has declared force majeure on gas supplies to Europe to at least one major customer, according to a letter from Gazprom that will add to Europea… [+2234 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Jim Cramer",
+      "title": "Cramer Monday: Delta's big buy, solid bank results, the Micron effect - CNBC",
+      "description": "Stock futures rose more than 200 points on Monday to start a busy week of quarterly earnings reports.",
+      "url": "https://www.cnbc.com/2022/07/18/cramer-monday-deltas-big-buy-solid-bank-results-the-micron-effect.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106826014-1611049341129-gettyimages-1230645257-BOA_EARNS.jpeg?v=1646419365&w=1920&h=1080",
+      "publishedAt": "2022-07-18T13:20:01Z",
+      "content": "<ul><li>Quarterly earnings report from Bank of America (BAC) was very solid. Revenue rose 6% to $22.79 billion, beating analyst estimates. Loan growth is good. The consumer is amazingly good don't kn… [+3226 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Jalopnik"
+      },
+      "author": "Kyle Hyatt",
+      "title": "The Lucid Air Grand Touring Makes the Tesla Model S Feel Kinda Pointless - Jalopnik",
+      "description": "With better build quality, nicer materials and vastly superior battery range, the Air makes the Model S seem old, cheap and outdated.",
+      "url": "https://jalopnik.com/the-lucid-air-grand-touring-makes-the-tesla-model-s-fee-1849188800",
+      "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9decac14927d2fcc85a50d0ed6bc1a42.jpg",
+      "publishedAt": "2022-07-18T13:00:00Z",
+      "content": "Were all fairly aware by now that starting a new car company is not easy. Thats especially true when youre targeting a pretty expensive, exclusive slice of the market. This is why Ive been a little i… [+10210 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "Martin Baccardax",
+      "title": "General Electric Unveils New Brand Names, Logo, Ahead of Historic Split - TheStreet",
+      "description": "General Electric unveiled the names of its three new business units Monday as it powers ahead with its historic decision to split the industrial group into three separate public companies.",
+      "url": "https://www.thestreet.com/markets/general-electric-unveils-new-names-logo-ahead-of-historic-split",
+      "urlToImage": "https://www.thestreet.com/.image/t_share/MTY4NjUxNzYwNzE2MzU5MzAz/video-jim-cramer-reacts-to-general-electrics-dividend-worries.jpg",
+      "publishedAt": "2022-07-18T12:48:30Z",
+      "content": "Updated at 10:41 am EST\r\nGeneral Electric  (GE) - Get General Electric Company Report unveiled the names of its three new business units Monday as it powers ahead with its historic decision to split … [+2546 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Matt McFarland, CNN Business",
+      "title": "Hertz faces lawsuit from 47 customers claiming false arrests - CNN",
+      "description": "47 Hertz customers have filed a lawsuit against the rental company that describes horror stories after they were allegedly falsely reported as having stolen its rental cars, and in some cases even jailed.",
+      "url": "https://www.cnn.com/2022/07/15/business/hertz-rental-arrests/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220715140823-01-hertz-lawsuit-file-super-tease.jpg",
+      "publishedAt": "2022-07-18T12:38:00Z",
+      "content": "Washington, DC (CNN)47 Hertz customers have filed a lawsuit against the rental company that describes horror stories after they were allegedly falsely reported as having stolen its rental cars, and i… [+3548 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Frank Pallotta and Nicole Goodkind, CNN Business",
+      "title": "Netflix is in rough shape. This week will determine its future - CNN",
+      "description": "Netflix, once a darling of Wall Street, is suddenly on the ropes.",
+      "url": "https://www.cnn.com/2022/07/17/investing/stocks-week-ahead/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220511131842-clix-1-netflix-super-tease.jpg",
+      "publishedAt": "2022-07-18T12:29:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Joshua Franklin",
+      "title": "Goldman Sachs traders help profits beat forecast as dealmaking slumps - Financial Times",
+      "description": "Wall Street bank’s second-quarter net income falls 47% as revenues decline",
+      "url": "https://www.ft.com/content/5c0c341f-6a02-4996-9b6c-e927e69273ea",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc851ef34-7124-4d35-ae01-eb8440b75857.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-07-18T12:11:28Z",
+      "content": "Goldman Sachs traders helped the Wall Street bank overcome a slump in dealmaking and report better than expected profits in the second quarter.\r\nOn Monday, Goldman reported net income fell 47 per cen… [+2168 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Orla McCaffrey",
+      "title": "Bank of America Profit Falls 32% - The Wall Street Journal",
+      "description": "The second-largest U.S. bank earned $6.2 billion in the second quarter, down from $9.2 billion a year earlier. Per-share earnings of 73 cents missed the 75 cents that analysts had expected.",
+      "url": "https://www.wsj.com/articles/bank-of-america-profit-falls-32-11658142122",
+      "urlToImage": "https://images.wsj.net/im-582252/social",
+      "publishedAt": "2022-07-18T11:53:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Ryan Browne",
+      "title": "Crypto exchange Binance fined $3.4 million by Dutch central bank for operating illegally - CNBC",
+      "description": "The regulator had warned last year that Binance was offering its services in the Netherlands without authorization.",
+      "url": "https://www.cnbc.com/2022/07/18/crypto-exchange-binance-fined-by-dutch-central-bank.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106911986-1626436738459-gettyimages-1232552144-omarques_26042021_financekrk_5.jpeg?v=1626437470&w=1920&h=1080",
+      "publishedAt": "2022-07-18T11:49:47Z",
+      "content": "Binance, the world's largest cryptocurrency exchange, on Monday was slapped with a 3.3 million euro ($3.4 million) fine from the Dutch central bank for operating in the Netherlands without registrati… [+2070 chars]"
+    },
+    {
+      "source": {
+        "id": "axios",
+        "name": "Axios"
+      },
+      "author": "Emily Peck",
+      "title": "A recession would be worse than the inflation the US is seeing now - Axios",
+      "description": "With inflation, there are winners and losers. With a recession, everyone loses.",
+      "url": "https://www.axios.com/2022/07/18/recession-worse-inflation-progressive-economists-argue",
+      "urlToImage": "https://images.axios.com/wo5VoemUZDXVKwIX6eY1P9wedZE=/0x0:1920x1080/1366x768/2022/07/15/1657918547147.jpg",
+      "publishedAt": "2022-07-18T11:43:47Z",
+      "content": "A recession would be worse than the inflation the U.S. is seeing now, which is actually showing signs of easing up, some progressive economists are now arguing.\r\nWhy it matters: The Federal Reserve h… [+2567 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BNNBloomberg.ca"
+      },
+      "author": "Bloomberg News",
+      "title": "Bread for $10 Is the New $5 Gas as Demand Wanes for Basics - BNN",
+      "description": "Prices for frequent purchases often weigh heaviest on consumer sentiment. Now bread inflation is in sticker-shock territory.",
+      "url": "http://www.bnnbloomberg.ca/bread-for-10-is-the-new-5-gas-as-demand-wanes-for-basics-1.1793376",
+      "urlToImage": "http://www.bnnbloomberg.ca/polopoly_fs/1.1793377!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/due-to-increased-expense-la-boulangerie-co-in-chicago-raised-their-prices-by-about-10-photographer-christopher-dilts-bloomberg.png",
+      "publishedAt": "2022-07-18T11:42:46Z",
+      "content": "(Bloomberg) -- People really begin noticing inflation when it shows up in things that they regularly buy. Thats why gasoline and milk get so much attention. Add bread to a growing list of basics that… [+5661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WRAL.com"
+      },
+      "author": "Jessica Patrick",
+      "title": "RDU ranked among worst US airports for cancellations and delays this summer - WRAL News",
+      "description": "Summer air travel is a mess, and flight delays and cancellations show no signs of letting up.",
+      "url": "https://www.wral.com/rdu-ranked-among-worst-us-airports-for-cancellations-and-delays-this-summer/20379278/",
+      "urlToImage": "https://wwwcache.wral.com/asset/news/local/2021/05/30/19703580/122630-travel.1.2021-DMID1-5r1aunu6e-640x480.jpg",
+      "publishedAt": "2022-07-18T11:03:07Z",
+      "content": "By Pete Muntean, Gregory Wallace and Marnie Hunter, CNN\r\n(CNN) -- Summer air travel is a mess, and flight delays and cancellations show no signs of letting up.\r\nUS airlines have canceled more than 10… [+3986 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Steve Goldstein",
+      "title": "Why the 60/40 model suddenly has life again - MarketWatch",
+      "description": "Critical information for the U.S. trading day",
+      "url": "https://www.marketwatch.com/story/why-the-60-40-model-suddenly-has-life-again-11658141616",
+      "urlToImage": "https://images.mktw.net/im-585457/social",
+      "publishedAt": "2022-07-18T10:53:00Z",
+      "content": "The good ol 60/40 portfolio, designed to produce decent returns in all environments, is having one of its worst years ever. Going by the simplest possible construction 60% in the S&amp;P 500 \r\n SPX,\r… [+3802 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointelegraph"
+      },
+      "author": "Yashu Gola",
+      "title": "Ethereum price breaks out, hits 2-month high versus Bitcoin — is the rally sustainable? - Cointelegraph",
+      "description": "The rally has pushed Ether to an area filled with historically relevant resistance levels, increasing its pullback risks against Bitcoin.",
+      "url": "https://cointelegraph.com/news/ethereum-price-breaks-out-hits-2-month-high-versus-bitcoin-is-the-rally-sustainable",
+      "urlToImage": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDcvYTk0NWM1ZjQtYmViOC00MzA2LTkzMTUtZDE2Mjc2YWEzYjVhLmpwZw==.jpg",
+      "publishedAt": "2022-07-18T10:43:53Z",
+      "content": "Ethereum's native token Ether (ETH) has successfully avoided a bearish technical setup to reach a two-month high against Bitcoin (BTC).\r\nETH price bear flag invalidated\r\nThe ETH/BTC pair invalidated … [+2351 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Leslie Josephs",
+      "title": "Delta buys 100 Boeing Max planes, its first major order with the manufacturer in more than a decade - CNBC",
+      "description": "Delta was the last of the major U.S. carriers to order Max planes from Boeing in recent years.",
+      "url": "https://www.cnbc.com/2022/07/18/delta-buys-100-max-planes-in-first-big-boeing-order-in-over-a-decade.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/102254026-452532224.jpg?v=1444838099&w=1920&h=1080",
+      "publishedAt": "2022-07-18T10:34:48Z",
+      "content": "Delta Air Lines is buying 100 Boeing 737 Max 10 planes, its first major order for new aircraft from the U.S. manufacturer in more than a decade.\r\nThe deal has options for 30 more of the planes. Deliv… [+2837 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Tomi Kilgore",
+      "title": "Alphabet stock rallies after 20-for-1 stock split takes effect - MarketWatch",
+      "description": "Shares of Alphabet Inc. undefinedundefined rallied in premarket trading Monday, on the first day after the internet search giant's 20-for-1 stock split took...",
+      "url": "https://www.marketwatch.com/story/alphabet-stock-rallies-after-20-for-1-stock-split-takes-effect-2022-07-18",
+      "urlToImage": "https://s.wsj.net/public/resources/MWimages/MW-GP644_MicroS_ZG_20180906154215.jpg",
+      "publishedAt": "2022-07-18T10:31:00Z",
+      "content": "Shares of Alphabet Inc. \r\n GOOGL,\r\n -0.20%\r\nGOOG,\r\n -0.02%\r\nrallied in premarket trading Monday, on the first day after the internet search giant's 20-for-1 stock split took effect. The more active C… [+506 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Jacob Passy and Ayse Kelce",
+      "title": "With a Strong Dollar, American Tourists Are Spending in Europe - The Wall Street Journal",
+      "description": "Many travelers are splurging on luxury goods, fine wines and accommodations, while others are already planning to go back later this year.",
+      "url": "https://www.wsj.com/articles/with-a-strong-dollar-american-tourists-are-spending-in-europe-11658136601",
+      "urlToImage": "https://images.wsj.net/im-585059/social",
+      "publishedAt": "2022-07-18T09:30:00Z",
+      "content": "For Americans traveling to Europe, a weaker euro is granting them a license to splurge.\r\nThe euro briefly reached parity with the U.S. dollar on Thursday, with the European common currency being wort… [+229 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Arjun Neil Alim, Edward White",
+      "title": "China braced for renewed lockdowns as Omicron subvariant spreads - Financial Times",
+      "description": "Shanghai and Tianjin order mass testing as infectious BA.5 strain threatens economic recovery",
+      "url": "https://www.ft.com/content/d12159d4-8d94-44ae-92fe-d4ad0b731006",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcc3a1e2b-5a6d-408b-9085-3ce0df55048b.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-07-18T09:11:13Z",
+      "content": "China is at risk of more frequent lockdowns and mass testing as officials struggle to contain the spread of the highly transmissible BA.5 Omicron subvariant despite the damage pandemic restrictions h… [+3784 chars]"
+    }
+  ]
+}
