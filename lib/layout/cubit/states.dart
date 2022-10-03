@@ -6,6 +6,8 @@ class InitialStates extends NewsStates{}
 
 class ChangeBottomNavBarStates extends NewsStates{}
 
+class ChangeNewsDescriptionStates extends NewsStates{}
+
 class ChangeSwitchStates extends NewsStates{}
 
 class ChangeColorStates extends NewsStates{}

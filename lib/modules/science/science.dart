@@ -15,7 +15,7 @@ class Science extends StatelessWidget {
         builder: (context, state) {
 
           dynamic tasks=NewsCubit.get(context).sciences;
-          return buildArticlesScreen(tasks, isSearch: false,);
+          return buildArticlesScreen(tasks,context: context, isSearch: false,);
         }
 
     );

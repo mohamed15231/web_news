@@ -44,6 +44,9 @@ dependencies:
   webview_flutter: ^3.0.4
   flutter_js: ^0.4.0+6
   shared_preferences: ^2.0.15
+  conditional_builder_rec: ^1.0.0
+  responsive_builder: ^0.4.3
+  fluro: ^2.0.3
 
 dev_dependencies:
   flutter_test:

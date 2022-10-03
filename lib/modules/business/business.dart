@@ -14,7 +14,7 @@ class Business extends StatelessWidget {
      builder: (context, state) {
 
        dynamic tasks=NewsCubit.get(context).business;
-      return buildArticlesScreen(tasks,isSearch: false);
+      return buildArticlesScreen(tasks,context: context,isSearch: false);
      }
 
    );

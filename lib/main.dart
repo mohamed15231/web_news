@@ -1,3 +1,4 @@
+import 'package:fluro/fluro.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -9,12 +10,16 @@ import 'package:newsapp/shared/components/constants/constants.dart';
 import 'package:newsapp/shared/network/local/bloc_observer.dart';
 import 'package:newsapp/shared/network/remote/api.dart';
 import 'package:newsapp/shared/network/remote/shared_preferences.dart';
+import 'package:flutter_web_plugins/url_strategy.dart';
+
+
 void main()async{
   WidgetsFlutterBinding.ensureInitialized();
   await SaveData.init();
-   isEg=SaveData.getData(key: "isEg");
+   isEg=SaveData.getData(key: "isEg")??true;
+   print(isEg);
   bool? isdark=SaveData.getData(key: "isdark")??false;
-
+  usePathUrlStrategy();
 
   DioApp.initialDio();
     BlocOverrides.runZoned(

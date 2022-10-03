@@ -26,6 +26,12 @@ class NewsCubit extends Cubit<NewsStates> {
   // late bool isDark1;
 
   int currentIndex = 0;
+  int currentIndexDescription = 1;
+
+  void changeIndexDescription(int index){
+    currentIndexDescription=index;
+    emit(ChangeNewsDescriptionStates());
+  }
   List<BottomNavigationBarItem> bottomNavigator = [
     const BottomNavigationBarItem(
         icon: Icon(Icons.business_sharp), label: "Business"),
